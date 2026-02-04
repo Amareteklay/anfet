@@ -1,0 +1,6 @@
+# Mental models
+
+- Opportunity cost
+- Second-order effects
+- Feedback loops
+- Signaling & status

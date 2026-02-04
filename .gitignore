@@ -1,0 +1,53 @@
+# Quarto / render outputs
+/_book/
+/_site/
+/docs/
+
+# Quarto caches
+/.quarto/
+/.quarto_cache/
+/.quarto-files/
+**/.quarto/
+
+# Knitr / R / Jupyter caches (if you ever use them)
+**/*_cache/
+/.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (PDF builds)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Python artifacts (if you run Python code in Quarto)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+pip-wheel-metadata/
+*.egg-info/
+
+# Node (if you add JS tooling later)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,4 @@
+# Decision-making
+
+- Base rates
+- Reversible vs irreversible decisions

@@ -1,0 +1,3 @@
+# Money basics
+
+- Money is optionality

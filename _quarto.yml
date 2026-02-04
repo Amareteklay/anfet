@@ -1,0 +1,102 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "ኣንፈት"
+  subtitle: "Direction: things I wish I knew earlier"
+  author: "ኣማረ ተኽላይ"
+  date: last-modified
+  site-url: "https://amareteklay.github.io/anfet/"
+  repo-url: "https://github.com/amareteklay/anfet"
+  repo-actions: [edit, issue]
+  downloads: [pdf, epub]
+  sharing: [twitter, linkedin]
+  reader-mode: true
+  search: true
+  sidebar:
+    style: "docked"
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - part: "Part I — Orientation"
+      chapters:
+        - 01-orientation/01-why-anfet.qmd
+        - 01-orientation/02-how-to-use.qmd
+        - 01-orientation/03-principles.qmd
+        - 01-orientation/04-mental-models.qmd
+    - part: "Part II — Self"
+      chapters:
+        - 02-self/01-identity-values.qmd
+        - 02-self/02-emotions-resilience.qmd
+        - 02-self/03-habits-systems.qmd
+        - 02-self/04-attention-energy.qmd
+        - 02-self/05-decision-making.qmd
+    - part: "Part III — Learning & Craft"
+      chapters:
+        - 03-learning/01-learning-how-to-learn.qmd
+        - 03-learning/02-skill-building.qmd
+        - 03-learning/03-writing-thinking.qmd
+        - 03-learning/04-feedback-mastery.qmd
+        - 03-learning/05-tools-tech.qmd
+    - part: "Part IV — Work & Career"
+      chapters:
+        - 04-career/01-career-game.qmd
+        - 04-career/02-workplace-rules.qmd
+        - 04-career/03-communication.qmd
+        - 04-career/04-negotiation.qmd
+        - 04-career/05-leadership.qmd
+        - 04-career/06-building-portfolio.qmd
+    - part: "Part V — Money & Leverage"
+      chapters:
+        - 05-money/01-money-basics.qmd
+        - 05-money/02-personal-finance.qmd
+        - 05-money/03-investing-risk.qmd
+        - 05-money/04-ownership-entrepreneurship.qmd
+        - 05-money/05-time-optional-life.qmd
+    - part: "Part VI — Relationships & Community"
+      chapters:
+        - 06-relationships/01-family-friends.qmd
+        - 06-relationships/02-romance.qmd
+        - 06-relationships/03-conflict-boundaries.qmd
+        - 06-relationships/04-social-capital.qmd
+        - 06-relationships/05-community.qmd
+    - part: "Part VII — Power, Institutions, and Society"
+      chapters:
+        - 07-society/01-power-games.qmd
+        - 07-society/02-institutions.qmd
+        - 07-society/03-media-narratives.qmd
+        - 07-society/04-ethics.qmd
+        - 07-society/05-citizenship.qmd
+    - part: "Part VIII — Health, Meaning, and the Long Game"
+      chapters:
+        - 08-longgame/01-health.qmd
+        - 08-longgame/02-meaning-purpose.qmd
+        - 08-longgame/03-spirituality-philosophy.qmd
+        - 08-longgame/04-legacy.qmd
+        - 08-longgame/05-letters-to-my-younger-self.qmd
+    - part: "Appendices"
+      chapters:
+        - appendices/a1-checklists.qmd
+        - appendices/a2-reading-list.qmd
+        - appendices/a3-glossary.qmd
+        - appendices/a4-notes.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+  pdf:
+    documentclass: scrreprt
+  epub: default
+
+execute:
+  freeze: auto
+
+bibliography: references.bib
+#csl: apa.csl

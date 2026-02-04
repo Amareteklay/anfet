@@ -1,0 +1,4 @@
+# Skill-building
+
+- Deliberate practice
+- Ship small projects

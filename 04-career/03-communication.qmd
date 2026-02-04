@@ -1,0 +1,3 @@
+# Communication
+
+- Context → Problem → Options → Recommendation
