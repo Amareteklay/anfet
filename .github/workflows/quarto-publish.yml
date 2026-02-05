@@ -17,6 +17,9 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+      
+      - name: Install TinyTeX
+        run: quarto install tinytex
 
       # If you ever execute Python/R in chapters, add the relevant setup here.
       # For now, your book is mostly text, so this is enough.
