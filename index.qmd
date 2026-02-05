@@ -3,8 +3,34 @@ title: "Anfet"
 subtitle: "Direction: things I wish I knew earlier"
 ---
 
-> **Anfet** (Tigrinya) means **Direction**.
+> **Anfet** (Tigrinya) means **Direction** — the kind you wish someone had handed you before you learned the hard way.
+
+This book is a practical map: lessons, mental models, and habits that make life easier to navigate.  
+Not because life becomes simple, but because *you see the terrain sooner* — the incentives, the hidden rules, the trade-offs, and the moves that compound.
+
+## Who this is for
+- Youth and learners who didn’t have access to mentors, networks, or “insider” information
+- Anyone starting over, changing direction, or trying to grow faster with fewer regrets
+- Curious people who want a clearer model of how the world works — at home, at work, and in society
 
 ## How this book is organized
-- Parts move from *self* → *skills* → *work* → *money* → *relationships* → *society* → *long game*.
-- Each chapter has: **Aha moments**, **Failure lessons**, **Rules of the game**, **Exercises**, **Stories**.
+- The parts move from **self** → **skills** → **work** → **money** → **relationships** → **society** → **the long game**.
+- Each chapter is built to be skimmable and useful. You’ll usually find:
+  - **Aha moments** — the insight that changed how I see things
+  - **Failure lessons** — what cost me time, confidence, or opportunity
+  - **Rules of the game** — written and unwritten rules (incentives, status, power, norms)
+  - **Exercises** — small actions you can do this week
+  - **Stories** — examples from real life (including mine) to make it concrete
+
+## How to read it
+- Read it like a **toolkit**, not a textbook.
+- Start with the chapter that matches your current problem.
+- Keep one note titled **“Anfet — Lessons”** and write:
+  - what surprised you
+  - what you will do differently
+  - what you’ll test this week
+
+## A small promise
+If you apply even a few ideas here consistently, you’ll gain two things:
+1. **Better direction** — fewer wasted loops  
+2. **More leverage** — small actions that compound over time
