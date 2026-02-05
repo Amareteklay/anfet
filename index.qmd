@@ -1,17 +1,16 @@
 ---
 title: "Anfet"
-subtitle: "Direction: things I wish I knew earlier"
+subtitle: "Lessons for better direction in life, work, and relationships"
 ---
 
 > **Anfet** (Tigrinya) means **Direction** — the kind you wish someone had handed you before you learned the hard way.
 
-This book is a practical map: lessons, mental models, and habits that make life easier to navigate.  
-Not because life becomes simple, but because *you see the terrain sooner* — the incentives, the hidden rules, the trade-offs, and the moves that compound.
+እዚ መጽሓፍ እዚ ተግባራዊ ካርታ እዩ፡ ህይወት ንምምራሕ ዝቐልል ትምህርታት፣ ኣእምራውያን ሞዴላት፣ ከምኡ'ውን ልምድታት።ህይወት ቀሊል ስለዝኾነ ዘይኮነስ፣ ግን ነቲ መሬት ቅድሚ ግዜ ስለትርእዮ እዩ — ነቲ ትሕዝትኡ ዘለዎም፣ ነቶም ሕባእቲ ሕግታት፣ ነቶም ምትሕውዋሳት፣ ከምኡ'ውን ነቶም ዝውህሉ ስጉምትታት።
 
-## Who this is for
-- Youth and learners who didn’t have access to mentors, networks, or “insider” information
-- Anyone starting over, changing direction, or trying to grow faster with fewer regrets
-- Curious people who want a clearer model of how the world works — at home, at work, and in society
+## እዚ ንመን እዩ
+- ንመምህራን፣ ኔትወርክ፣ ወይ "ውሽጣዊ" ሓበሬታ ዘይረኸቡ መንእሰያትን ተማሃሮን
+- ካብ መጀመርያ ዝጅምር፣ አንፈት ዝቕይር፣ ወይ ብውሑድ ጣዕሳ ብቕልጡፍ ክዓቢ ዝፍትን ዝኾነ ሰብ
+- ዓለም ከመይ ከም እትሰርሕ - ኣብ ገዛ፣ ኣብ ስራሕ፣ ከምኡ'ውን ኣብ ሕብረተሰብ - ዝያዳ ንጹር ሞዴል ክረኽቡ ዝደልዩ ዘማላለሱ ሰባት
 
 ## How this book is organized
 - The parts move from **self** → **skills** → **work** → **money** → **relationships** → **society** → **the long game**.
