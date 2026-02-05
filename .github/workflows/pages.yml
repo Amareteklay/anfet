@@ -24,11 +24,10 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # Render the book
-      - name: Render
-        run: quarto render
+      # Render ONLY HTML to avoid TeX/PDF issues on GitHub runners
+      - name: Render (HTML only)
+        run: quarto render --to html
 
-      # Upload the rendered site for Pages
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
