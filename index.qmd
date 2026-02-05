@@ -1,9 +1,9 @@
 ---
 title: "Anfet"
-subtitle: "Lessons for better direction in life, work, and relationships"
+subtitle: "ኣቐዲመ ክፈልጦ ዝምነ ነገራት"
 ---
 
-> **Anfet** (Tigrinya) means **Direction** — the kind you wish someone had handed you before you learned the hard way.
+> **አንፈት** — ብጸገም ቅድሚ ምትምሃርካ ሓደ ሰብ ሂቡካ እንተ ዝነበረ ዝምነ ዓይነት።
 
 እዚ መጽሓፍ እዚ ተግባራዊ ካርታ እዩ፡ ህይወት ንምምራሕ ዝቐልል ትምህርታት፣ ኣእምራውያን ሞዴላት፣ ከምኡ'ውን ልምድታት።ህይወት ቀሊል ስለዝኾነ ዘይኮነስ፣ ግን ነቲ መሬት ቅድሚ ግዜ ስለትርእዮ እዩ — ነቲ ትሕዝትኡ ዘለዎም፣ ነቶም ሕባእቲ ሕግታት፣ ነቶም ምትሕውዋሳት፣ ከምኡ'ውን ነቶም ዝውህሉ ስጉምትታት።
 
@@ -12,24 +12,24 @@ subtitle: "Lessons for better direction in life, work, and relationships"
 - ካብ መጀመርያ ዝጅምር፣ አንፈት ዝቕይር፣ ወይ ብውሑድ ጣዕሳ ብቕልጡፍ ክዓቢ ዝፍትን ዝኾነ ሰብ
 - ዓለም ከመይ ከም እትሰርሕ - ኣብ ገዛ፣ ኣብ ስራሕ፣ ከምኡ'ውን ኣብ ሕብረተሰብ - ዝያዳ ንጹር ሞዴል ክረኽቡ ዝደልዩ ዘማላለሱ ሰባት
 
-## How this book is organized
-- The parts move from **self** → **skills** → **work** → **money** → **relationships** → **society** → **the long game**.
-- Each chapter is built to be skimmable and useful. You’ll usually find:
-  - **Aha moments** — the insight that changed how I see things
-  - **Failure lessons** — what cost me time, confidence, or opportunity
-  - **Rules of the game** — written and unwritten rules (incentives, status, power, norms)
-  - **Exercises** — small actions you can do this week
-  - **Stories** — examples from real life (including mine) to make it concrete
+## እዚ መጽሓፍ እዚ ከመይ ጌሩ ዝተዳለወ
+- እቶም ክፋላት ካብ **ባህሪ** → **ክእለታት** → **ስራሕ** → **ገንዘብ** → **ርክባት** → **ሕብረተሰብ** → **ነዊሕ ጸወታ** ይንቀሳቐሱ።
+- ነፍሲ ወከፍ ምዕራፍ ብቐሊሉ ንምንባብን ጠቓምን ኮይኑ ዝተሃንጸ እዩ። መብዛሕትኡ ግዜ እዚ ትረክብ፦
+  - **ኣሃ ህሞታት** — ነገራት ከመይ ገይረ ከም እንደይዮም ዘቐየረ ርድኢት
+  - **ትምህርታት ሕሰም** — ንግዜይ፣ ርእሰ-እምነተይ፣ ወይ ዕድለይ ዘኸፈለኒ
+  - **ሕግታት ጸወታ** — ዝተጻሕፉን ዘይተጻሕፉን ሕግታት (ትሕዝቶታት፣ ደረጃ፣ ሓይሊ፣ ልምድታት)
+  - **ልምምዳት** — ኣብዚ ሰሙን እዚ ክትገብሮም እትኽእል ንኣሽቱ ተግባራት
+  - **ዛንታታት** — ካብ ሓቀኛ ህይወት (ናተይ ሓዊሱ) ዝተወስዱ ኣብነታት ንጭቡጥ ንምግባር
 
-## How to read it
-- Read it like a **toolkit**, not a textbook.
-- Start with the chapter that matches your current problem.
-- Keep one note titled **“Anfet — Lessons”** and write:
-  - what surprised you
-  - what you will do differently
-  - what you’ll test this week
+## ከመይ ጌርካ ትንብቦ
+- ከም **መሳርሒ ሳጹን** ኣንብቦ፣ ከም መጽሓፍ ትምህርቲ ዘይኮነ።
+- ምስ ህሉው ጸገምካ ዝዛመድ ምዕራፍ ጀምር።
+- **"አንፈት — ትምህርታት"** ዝብል ሓደ ማስታወሻ ሕሉው ግበርን እዚ ጸሓፍ፦
+  - እንታይ ኣገረመካ
+  - እንታይ ብተፈላላይ ክትገብር ከም እትኽእል
+  - ኣብዚ ሰሙን እዚ እንታይ ክትፍትን ከም እትኽእል
 
-## A small promise
-If you apply even a few ideas here consistently, you’ll gain two things:
-1. **Better direction** — fewer wasted loops  
-2. **More leverage** — small actions that compound over time
+## ንኣሽቱ ቃል
+ካብዚ ሓደ ሓደ ሓሳባት ብቐጻሊ እንተ ተጠቒምካ፣ ክልተ ነገራት ክትረኽብ ኢኻ፦
+1. **ዝሓሸ አንፈት** — ውሑድ ዝተባኸነ ዙርያታት  
+2. **ዝያዳ ሓይሊ** — ብግዜ ዝውህሉ ንኣሽቱ ተግባራት
