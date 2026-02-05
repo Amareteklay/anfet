@@ -10,7 +10,6 @@ book:
   site-url: "https://amareteklay.github.io/anfet/"
   repo-url: "https://github.com/amareteklay/anfet"
   repo-actions: [edit, issue]
-  downloads: [pdf, epub]
   sharing: [twitter, linkedin]
   reader-mode: true
   search: true
