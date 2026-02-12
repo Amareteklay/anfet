@@ -33,3 +33,5 @@ subtitle: "ኣቐዲመ ክፈልጦ ዝምነ ነገራት"
 ካብዚ ሓደ ሓደ ሓሳባት ብቐጻሊ እንተ ተጠቒምካ፣ ክልተ ነገራት ክትረኽብ ኢኻ፦
 1. **ዝሓሸ አንፈት** — ውሑድ ዝተባኸነ ዙርያታት  
 2. **ዝያዳ ሓይሊ** — ብግዜ ዝውህሉ ንኣሽቱ ተግባራት
+
+Added this to the index page to provide an overview of the book's content and structure, as well as to guide readers on how to approach the material. The sections outline the key themes and topics covered in the book, and the "ንኣሽቱ ቃል" section offers practical advice for readers on how to engage with the content effectively.
