@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 book:
-  title: "ኣንፈት"
+  title: "ኣማንቶሎጂ"
   subtitle: "ማህደር ሓሳባት ፣ ቅድም ኢለ ተዝፈልጦም ዝብሎም ሓሳባት"
   author: "ኣማረ ተኽላይ"
   date: last-modified
-  site-url: "https://amareteklay.github.io/anfet/"
-  repo-url: "https://github.com/amareteklay/anfet"
+  site-url: "https://amareteklay.github.io/amantology/"
+  repo-url: "https://github.com/amareteklay/amantology"
   repo-actions: [edit, issue]
   sharing: [twitter, linkedin]
   reader-mode: true
